@@ -1,0 +1,52 @@
+{
+  "tracks": [
+    {
+      "id": 1,
+      "name": "Alexander hate me if it helps",
+      "image": "../../data/boy.png",
+      "music": "../../data/Alexander.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Motive ariana ft doja cat",
+      "image": "../../data/boy.png",
+      "music": "../../data/ari.mp3"
+    },
+    {
+      "name": "Young stoner records",
+      "image": "../../data/boy.png",
+      "music": "../../data/gunna.mp3",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Your man",
+      "image": "../../data/boy.png",
+      "music": "../../data/joji.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Ransom",
+      "image": "../../data/boy.png",
+      "music": "../../data/liltecca.mp3"
+    },
+    {
+      "name": "Straigth from my heart",
+      "image": "../../data/boy.png",
+      "music": "../../data/rudimental.mp3",
+      "id": 6
+    },
+    {
+      "name": "All the start sza ft kendrick lamar",
+      "image": "../../data/boy.png",
+      "music": "../../data/stars.mp3",
+      "id": 7
+    },
+    {
+      "name": "One republic",
+      "image": "../../data/boy.png",
+      "music": "../../data/worried.mp3",
+      "id": 8
+    }
+  ]
+}

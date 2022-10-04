@@ -11,7 +11,7 @@ function Search({ search, setSearch }) {
           console.log(search);
         }}
       />
-      <i className="circular search link icon"></i>
+      <span className="material-symbols-outlined">search</span>
     </div>
   );
 }

@@ -1,19 +1,12 @@
 * {
   font-family: "Abyssinica SIL", serif;
+  box-sizing: border-box;
 }
 
 body {
-  background-color: black;
   margin: 0;
   padding: 0;
   height: 100vh;
+  background-color: #fffafa;
 }
 
-code {
-  font-family: sans-serif;
-}
-.musicpage {
-  font-weight: bold;
-  font-size: 30px;
-  color: red;
-}

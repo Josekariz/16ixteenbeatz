@@ -4,6 +4,11 @@
   width: 100%;
   border-radius: 10px;
 }
+@media all and (max-width: 300px) {
+  body {
+    background-color: white;
+  }
+}
 .header {
   font-size: 70px;
   color: #d648d7;

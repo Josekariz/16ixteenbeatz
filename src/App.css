@@ -9,6 +9,53 @@
     background-color: white;
   }
 }
+/* style nav bar start */
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+}
+@media all and (max-width: 480px) {
+  nav {
+    min-height: 10vh;
+    background-color: black;
+    border-radius: 4px;
+    align-items: flex-start;
+    justify-content: space-evenly;
+  }
+}
+
+.nav-links {
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+@media all and (max-width: 480px) {
+  .nav-links {
+    width: 50%;
+  }
+}
+.nav-links li {
+  color: whitesmoke;
+  font-size: 15px;
+  text-decoration: none;
+}
+@media all and (max-width: 480px) {
+  .nav-links li {
+    font-size: 10px;
+    justify-content: space-between;
+  }
+}
+
+.nav-links :hover {
+  color: #d648d7;
+  cursor: pointer;
+}
 .header {
   font-size: 70px;
   color: #d648d7;

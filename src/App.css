@@ -197,4 +197,12 @@ input {
   background: rgba(0, 0, 0, 0.2);
   pointer-events: none;
 }
+/* start style on footer section */
 
+.footer {
+  min-height: 7vh;
+  background-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: #c904c9db;
+  text-align: center;
+}

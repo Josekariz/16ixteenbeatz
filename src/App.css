@@ -18,5 +18,25 @@
   white-space: nowrap;
   display: inline-flex;
   justify-content: space-evenly;
+/* add background image to home div */
+.home {
+  background-image: url("../public/data/images/home.jpg");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  box-sizing: border-box;
+  text-align: center;
+  padding: 20px;
+}
+@media all and (max-width: 480px) {
+  .home {
+    background-size: 125% 105%;
+  }
+}
+.home h1 {
+  color: #c904c9db;
+  font-style: italic;
+  position: relative;
+  top: 100px;
 }
 

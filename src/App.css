@@ -133,6 +133,24 @@ nav {
     overflow-wrap: break-word;
     overflow-y: hidden;
   }
+}
+input {
+  margin: auto;
+  width: 32%;
+  float: right;
+  position: relative;
+  right: 20px;
+  border-radius: 5px;
+  text-align: center;
+  background-color: rgba(89, 9, 89, 0.552);
+  color: fuchsia;
+}
+.musiclist h2 {
+  text-align: center;
+  color: #d748d7b9;
+  padding: 0px;
+}
+
 /* add background image to home div */
 .home {
   background-image: url("../public/data/images/home.jpg");

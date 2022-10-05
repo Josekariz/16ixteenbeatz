@@ -2,51 +2,81 @@
   "tracks": [
     {
       "id": 1,
-      "name": "Alexander hate me if it helps",
-      "image": "../../data/boy.png",
-      "music": "../../data/Alexander.mp3"
+      "name": "Bounce",
+      "image": "../../data/images/bounce.jpeg",
+      "music": "../../data/music/bounce.mp3"
     },
     {
       "id": 2,
-      "name": "Motive ariana ft doja cat",
-      "image": "../../data/boy.png",
-      "music": "../../data/ari.mp3"
+      "name": "Electronic",
+      "image": "../../data/images/electronic.png",
+      "music": "../../data/music/electronic.mp3"
     },
     {
-      "name": "Young stoner records",
-      "image": "../../data/boy.png",
-      "music": "../../data/gunna.mp3",
+      "name": "Forest",
+      "image": "../../data/images/forest.jpeg",
+      "music": "../../data/music/forest.mp3",
       "id": 3
     },
     {
       "id": 4,
-      "name": "Your man",
-      "image": "../../data/boy.png",
-      "music": "../../data/joji.mp3"
+      "name": "Groovy",
+      "image": "../../data/images/groovy.jpeg",
+      "music": "../../data/music/groovy.mp3"
     },
     {
       "id": 5,
-      "name": "Ransom",
-      "image": "../../data/boy.png",
-      "music": "../../data/liltecca.mp3"
+      "name": "Inspiring",
+      "image": "../../data/images/inspiring.jpeg",
+      "music": "../../data/music/inspiring.mp3"
     },
     {
-      "name": "Straigth from my heart",
-      "image": "../../data/boy.png",
-      "music": "../../data/rudimental.mp3",
+      "name": "Leonell",
+      "image": "../../data/images/leonell.png",
+      "music": "../../data/music/leonell.mp3",
       "id": 6
     },
     {
-      "name": "All the start sza ft kendrick lamar",
-      "image": "../../data/boy.png",
-      "music": "../../data/stars.mp3",
+      "name": "mxkit",
+      "image": "../../data/images/dj.jpeg",
+      "music": "../../data/music/mxkit.mp3",
       "id": 7
     },
     {
-      "name": "One republic",
-      "image": "../../data/boy.png",
-      "music": "../../data/worried.mp3",
+      "name": "Powerful",
+      "image": "../../data/images/powerful.jpeg",
+      "music": "../../data/music/powerful.mp3",
       "id": 8
+    },
+    {
+      "name": "Sexy",
+      "image": "../../data/images/sexy.jpeg",
+      "music": "../../data/music/sexy.mp3",
+      "id": 9
+    },
+    {
+      "name": "Slow-trap",
+      "image": "../../data/images/trap.jpeg",
+      "music": "../../data/music/slow-trap.mp3",
+      "id": 10
+    },
+    {
+      "name": "Spirit-blossm",
+      "image": "../../data/images/spirit.jpeg",
+      "music": "../../data/music/spirit-blossom-15285.mp3",
+      "id": 11
+    },
+    {
+      "name": "Street",
+      "image": "../../data/images/street.jpeg",
+      "music": "../../data/music/street.mp3",
+      "id": 12
+    },
+    {
+      "name": "Whip",
+      "image": "../../data/images/whip.jpeg",
+      "music": "../../data/music/whip.mp3",
+      "id": 13
     }
   ]
 }

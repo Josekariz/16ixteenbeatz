@@ -8,12 +8,17 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Footer from "./Footer";
 function App() {
   return (
-    <div className="App">
-      
-      <h1 className='header'>16ixTeenBeatz</h1>
-      create a navbar that floats e 
-      <MusicPage/>
-    </div>
+    <Router>
+      <div className="App">
+        <Navbar />
+        <Routes>
+          <Route path="/" exact default element={<Home />} />
+          <Route path="/musicpage" element={<MusicPage />} />
+          <Route path="/about" element={<About />} />
+        </Routes>
+        <Footer/>
+      </div>
+    </Router>
   );
 }
 

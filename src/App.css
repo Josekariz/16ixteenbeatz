@@ -57,8 +57,16 @@ nav {
   cursor: pointer;
 }
 .header {
-  font-size: 70px;
+  font-size: 30px;
+  font-style: italic;
+  cursor: pointer;
+
   color: #d648d7;
+}
+@media all and (max-width: 480px) {
+  .header {
+    font-size: 18px;
+  }
 }
 /* make the music list and form side by side */
 .audioCard {

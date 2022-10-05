@@ -31,7 +31,7 @@ function MusicList({ search }) {
 
   return (
     <div className="musiclist">
-      list of music files
+      <h2>Your tracks</h2>
       {listDiv}
     </div>
   );

@@ -69,6 +69,14 @@ nav {
   }
 }
 /* make the music list and form side by side */
+.musicpage {
+  background-image: url("../public/data/images/wallpaperflare.com_wallpaper.jpg");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  box-sizing: border-box;
+}
+
 .audioCard {
   height: 100px;
   box-sizing: border-box;

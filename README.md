@@ -6,20 +6,14 @@
 
 ## Table of contents
 
-- [Description](#description)
-- [Instilation](#instilation)
 - [Technology used](#technology-used)
 - [Reference](#references)
 - [License](#license)
 - [Authors info](#authors-info)
 
-# Netlify link
-
 # Heroku link
 
-## Description
-
-## Instilation
+https://dashboard.heroku.com/apps/jsonsa
 
 ### requirements
 

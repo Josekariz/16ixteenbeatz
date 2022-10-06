@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/16ixteenbeatz/static/css/main.4cdf48a9.css",
+    "main.js": "/16ixteenbeatz/static/js/main.4c1227df.js",
+    "static/media/about.jpg": "/16ixteenbeatz/static/media/about.8f21cfcf269438d3b0c5.jpg",
+    "static/media/home.jpg": "/16ixteenbeatz/static/media/home.db3e17e134a77d941904.jpg",
+    "static/media/wallpaperflare.com_wallpaper.jpg": "/16ixteenbeatz/static/media/wallpaperflare.com_wallpaper.42620073d44e1f16c012.jpg",
+    "index.html": "/16ixteenbeatz/index.html",
+    "main.4cdf48a9.css.map": "/16ixteenbeatz/static/css/main.4cdf48a9.css.map",
+    "main.4c1227df.js.map": "/16ixteenbeatz/static/js/main.4c1227df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cdf48a9.css",
+    "static/js/main.4c1227df.js"
+  ]
+}

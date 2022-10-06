@@ -3,7 +3,7 @@ function MusicList({ search }) {
   const [songList, setsongList] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:8000/tracks")
+    fetch("https://jsonsa.herokuapp.com/tracks")
       .then((res) => res.json())
       .then((data) => {
         setsongList(data);
@@ -14,13 +14,18 @@ function MusicList({ search }) {
     .filter((item) => {
       return search.toLowerCase() === ""
         ? item
-        : item.name.toLowerCase().includes(search);
+        : item.name.toLowerCase().includes(search.toLowerCase());
     })
     .map((song) => {
       return (
         <div key={song.id} className="audioCard">
           <h6>{song.name}</h6>
-          <img height={"100px"} width={"100px"} src={song.image} alt="music" />
+          <img
+            height={"100px"}
+            width={"100px"}
+            src={song.image}
+            alt="cover art"
+          />
           <audio controls>
             <source src={song.music} type="audio/ogg" />
             Your browser does not support the audio tag.
